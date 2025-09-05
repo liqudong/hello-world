@@ -9,6 +9,8 @@ if __name__ == '__main__':
 
     print("123123")
 
+    print('hello asdas123123dwqweqwe')
+
     asdasd
     as
     d
