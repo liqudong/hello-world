@@ -6,3 +6,6 @@
 """
 if __name__ == '__main__':
     print('hello asdas123123dwqweqweorld')
+
+    print("123123")
+
