@@ -11,8 +11,3 @@ if __name__ == '__main__':
 
     print('hello asdas123123dwqweqwe')
 
-    asdasd
-    as
-    d
-    dd
-sdasda
